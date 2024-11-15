@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TestFileManager": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
